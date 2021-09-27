@@ -1,0 +1,3 @@
+Python can access parent directories but not next door directories
+- Either Add the top layer dir to pythons path !This method!
+-or install the new project as if it is a package and the access like any othe install package !! see setup.py!!

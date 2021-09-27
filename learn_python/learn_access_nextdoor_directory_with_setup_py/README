@@ -1,0 +1,7 @@
+Python can access parent directories but not next door directories
+- Either Add the top layer dir to pythons path !see with path alter!
+-or install the new project as if it is a package and the access like any othe install package !! This one !!
+
+To use install package with pip
+
+pip install -e .

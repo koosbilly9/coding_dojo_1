@@ -1,0 +1,7 @@
+README
+setup.py
+Hello.egg-info/PKG-INFO
+Hello.egg-info/SOURCES.txt
+Hello.egg-info/dependency_links.txt
+Hello.egg-info/top_level.txt
+test/test_helloMe.py
